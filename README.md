@@ -43,7 +43,7 @@ Main Steps to build a CNN (or) Conv net:
 5.	Fully Connected Layer
 6.	Code.
 
-/br
+
 
 1. Convolution is the first layer to extract features from the input image and it learns the relationship between features using kernel or filters with input images.
 
