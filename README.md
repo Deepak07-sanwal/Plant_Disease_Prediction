@@ -43,6 +43,8 @@ Main Steps to build a CNN (or) Conv net:
 5.	Fully Connected Layer
 6.	Code.
 
+/br
+
 1. Convolution is the first layer to extract features from the input image and it learns the relationship between features using kernel or filters with input images.
 
 2. ReLU Layer: ReLU stands for the Rectified Linear Unit for a non-linear operation. The output is ƒ(x) = max (0, x). we use this because to introduce the non-linearity to CNN.
